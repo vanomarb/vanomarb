@@ -67,4 +67,4 @@ keeps itself honest.
 
 <img src="https://raw.githubusercontent.com/vanomarb/vanomarb/output/snake.svg" alt="A snake eating the last year of contributions" width="100%" />
 
-<sub>Recent work, activity, the stats card and the snake are redrawn every day by this repository's GitHub Actions.</sub>
+<sub>Recent work, activity, the stats card and the snake are redrawn by this repository's GitHub Actions: the snake daily, everything else every six hours.</sub>
