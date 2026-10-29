@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39FF9C&vCenter=true&width=640&height=52&lines=Hi%2C+I'm+Van+Omar.;Web+programmer+in+Cebu%2C+Philippines.;By+day%3A+CakePHP+to+Laravel.;After+hours%3A+apps+I'd+use+myself." alt="Hi, I'm Van Omar. Web programmer in Cebu, Philippines." />
 </a>
 
-By day I'm moving a large online-lesson platform from CakePHP to Laravel, one endpoint at a time, and proving each one
-answers exactly like the old code before it ships. After hours I build the things I want to use myself: a calorie tracker
-that knows Filipino food, a music player that pulls my libraries into one place, and scrapers for anime I watch.
+A developer who enjoys turning ideas into working projects. I build full-stack applications, APIs, and useful tools, while also exploring mobile apps and game development. I love experimenting with new technologies, solving problems, and building things that make a difference.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vanomarb.dev-1A2027?style=flat-square&labelColor=0B0F14&logo=googlechrome&logoColor=39FF9C)](https://vanomarb.dev)
 [![Email](https://img.shields.io/badge/Email-me%40vanomarb.dev-1A2027?style=flat-square&labelColor=0B0F14)](mailto:me@vanomarb.dev)
@@ -18,13 +16,13 @@ that knows Filipino food, a music player that pulls my libraries into one place,
 <td width="50%" valign="top">
 <a href="https://vanomarb.github.io/busog/"><img src="assets/work/busog.jpg" width="100%" alt="busog" /></a>
 <h3><a href="https://github.com/vanomarb/busog">Busog</a></h3>
-<sub><code>Svelte</code> <code>Astro</code> <code>TypeScript</code> · updated Oct 29 · <a href="https://vanomarb.github.io/busog/">Try it ↗</a></sub>
+<sub><code>Svelte</code> <code>Astro</code> <code>TypeScript</code> · updated Oct 29 · <a href="https://vanomarb.github.io/busog/">DEMO</a></sub>
 <p>A Filipino-first calorie tracker: point at your ulam, snap a plate, or search USDA food.</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://vanomarb.github.io/lowband/"><img src="assets/work/lowband.jpg" width="100%" alt="lowband" /></a>
 <h3><a href="https://github.com/vanomarb/lowband">Lowband</a></h3>
-<sub><code>TypeScript</code> <code>CSS</code> <code>JavaScript</code> · updated Oct 28 · <a href="https://vanomarb.github.io/lowband/">Try it ↗</a></sub>
+<sub><code>TypeScript</code> <code>CSS</code> <code>JavaScript</code> · updated Oct 28 · <a href="https://vanomarb.github.io/lowband/">DEMO</a></sub>
 <p>One library for music that lives on different services.</p>
 </td>
 </tr>
@@ -34,18 +32,27 @@ that knows Filipino food, a music player that pulls my libraries into one place,
 ### Tools I reach for
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-E43528?style=for-the-badge&logo=cakephp&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D00?style=for-the-badge&logo=astro&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack](https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=tanstack&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
