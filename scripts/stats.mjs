@@ -1,5 +1,5 @@
 // Draws assets/github-stats.svg from public GitHub data, in the profile palette.
-// Runs every six hours in .github/workflows/refresh.yml; locally: GITHUB_TOKEN=$(gh auth token) node scripts/stats.mjs
+// Runs every three days in .github/workflows/refresh.yml; locally: GITHUB_TOKEN=$(gh auth token) node scripts/stats.mjs
 import { writeFile } from 'node:fs/promises';
 
 const LOGIN = 'vanomarb';
@@ -104,7 +104,7 @@ function render(user) {
   </style>
   <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="14" fill="${C.base}" stroke="${C.line}"/>
   <text x="28" y="40" class="title">This year on GitHub</text>
-  <text x="28" y="58" class="sub">${year} · public activity · refreshed every 6 hours</text>
+  <text x="28" y="58" class="sub">${year} · public activity · refreshed every 3 days</text>
   <text x="484" y="40" class="title">Languages</text>
   <text x="484" y="58" class="sub">by code size across public repositories</text>
   ${tiles}

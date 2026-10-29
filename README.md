@@ -1,12 +1,13 @@
-<a href="https://vanomarb-portfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39FF9C&vCenter=true&width=640&height=52&lines=Hi%2C+I'm+Van+Omar.;Web+programmer+in+Cebu%2C+Philippines.;I+build+dashboards%2C+booking+%26+POS+tools.;Clean+databases.+Simple+screens." alt="Hi, I'm Van Omar. Web programmer in Cebu, Philippines." />
+<a href="https://vanomarb.dev">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39FF9C&vCenter=true&width=640&height=52&lines=Hi%2C+I'm+Van+Omar.;Web+programmer+in+Cebu%2C+Philippines.;By+day%3A+CakePHP+to+Laravel.;After+hours%3A+apps+I'd+use+myself." alt="Hi, I'm Van Omar. Web programmer in Cebu, Philippines." />
 </a>
 
-I build the everyday systems a business runs on: admin dashboards, booking and point-of-sale tools, and inventory that
-keeps itself honest.
+By day I'm moving a large online-lesson platform from CakePHP to Laravel, one endpoint at a time, and proving each one
+answers exactly like the old code before it ships. After hours I build the things I want to use myself: a calorie tracker
+that knows Filipino food, a music player that pulls my libraries into one place, and scrapers for anime I watch.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vanomarb--portfolio.vercel.app-1A2027?style=flat-square&labelColor=0B0F14&logo=googlechrome&logoColor=39FF9C)](https://vanomarb-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-vanomarbenaires%40gmail.com-1A2027?style=flat-square&labelColor=0B0F14&logo=gmail&logoColor=39FF9C)](mailto:vanomarbenaires@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vanomarb.dev-1A2027?style=flat-square&labelColor=0B0F14&logo=googlechrome&logoColor=39FF9C)](https://vanomarb.dev)
+[![Email](https://img.shields.io/badge/Email-me%40vanomarb.dev-1A2027?style=flat-square&labelColor=0B0F14)](mailto:me@vanomarb.dev)
 ![Profile views](https://hits.sh/github.com/vanomarb.svg?style=flat-square&label=profile%20views&color=1A2027&labelColor=0B0F14)
 
 ### Recent work
@@ -48,17 +49,6 @@ keeps itself honest.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Recent activity
-
-<!-- ACTIVITY:START -->
-- <a href="https://github.com/vanomarb/busog"><code>busog</code></a> <a href="https://github.com/vanomarb/busog/commit/96ff9c70114d878c2e84a0ef8d7e87fe4123d2f2">README: describe the sample data plainly</a> <sub>· Oct 29</sub>
-- <a href="https://github.com/vanomarb/busog"><code>busog</code></a> <a href="https://github.com/vanomarb/busog/commit/66cafb38a8ea40d696db7d1a046271c1341e1fb5">Contact forms send nothing until Busog's inbox opens</a> <sub>· Oct 29</sub>
-- <a href="https://github.com/vanomarb/lowband"><code>lowband</code></a> <a href="https://github.com/vanomarb/lowband/commit/61c2ebd8059552ea7ff5f8a352a8464bafad66e1">Phone app: no open bounce, draggable sheets, no zoom, no overlaps</a> <sub>· Oct 28</sub>
-- <a href="https://github.com/vanomarb/lowband"><code>lowband</code></a> <a href="https://github.com/vanomarb/lowband/commit/24a549d4ec56fb3b7ace0dab008ab3f93baac832">Catalogue from this week's charts instead of a fixed snapshot</a> <sub>· Oct 28</sub>
-- <a href="https://github.com/craigejonard/hrtracker"><code>craigejonard/hrtracker</code></a> Merged <a href="https://github.com/craigejonard/hrtracker/pull/1">v1.0.0: Migrate from SQLite to Postgres and enhance prediction features</a> <sub>· Sep 1</sub>
-- <a href="https://github.com/vanomarb/anime-scraper"><code>anime-scraper</code></a> <a href="https://github.com/vanomarb/anime-scraper/commit/e99331870f96d92238af241ea1d0da68dc01ad2e">patch: update</a> <sub>· Aug 17</sub>
-<!-- ACTIVITY:END -->
-
 ### This year on GitHub
 
 <img src="assets/github-stats.svg" alt="Contributions, commits, pull requests, repositories, stars and top languages this year" width="100%" />
@@ -67,4 +57,4 @@ keeps itself honest.
 
 <img src="https://raw.githubusercontent.com/vanomarb/vanomarb/output/snake.svg" alt="A snake eating the last year of contributions" width="100%" />
 
-<sub>Recent work, activity, the stats card and the snake are redrawn by this repository's GitHub Actions: the snake daily, everything else every six hours.</sub>
+<sub>Recent work, the stats card and the snake are redrawn by this repository's GitHub Actions: the snake daily, everything else every three days.</sub>
