@@ -1,0 +1,11 @@
+{
+  "name": "vanomarb-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/stats.mjs && node scripts/readme.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}

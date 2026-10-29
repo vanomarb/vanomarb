@@ -1,13 +1,14 @@
-name: Stats card
+name: Refresh profile
 on:
   schedule:
-    - cron: '17 0 * * *'
+    - cron: '17 */6 * * *'
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [scripts/stats.mjs]
+    paths: [scripts/**, package.json, .github/workflows/refresh.yml]
 permissions:
   contents: write
+concurrency: refresh
 jobs:
   draw:
     runs-on: ubuntu-latest
@@ -16,13 +17,16 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 22
-      - run: node scripts/stats.mjs
+          cache: npm
+      - run: npm ci
+      - run: npm run refresh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit if the card changed
+      - name: Commit if anything changed
         run: |
-          git diff --quiet assets/github-stats.svg && exit 0
+          git add -A README.md assets
+          git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Refresh stats card"
+          git commit -m "Refresh profile"
           git push

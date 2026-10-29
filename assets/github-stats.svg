@@ -25,7 +25,7 @@
   <g class="fade" style="animation-delay:90ms">
     <rect x="164" y="74" width="124" height="58" rx="10" fill="#1A2027"/>
     <text x="178" y="98" class="label">Commits</text>
-    <text x="178" y="120" class="value" fill="#E6EDF3">102</text>
+    <text x="178" y="120" class="value" fill="#E6EDF3">87</text>
   </g>
   <g class="fade" style="animation-delay:180ms">
     <rect x="300" y="74" width="124" height="58" rx="10" fill="#1A2027"/>
@@ -35,7 +35,7 @@
   <g class="fade" style="animation-delay:270ms">
     <rect x="28" y="144" width="124" height="58" rx="10" fill="#1A2027"/>
     <text x="42" y="168" class="label">Public repos</text>
-    <text x="42" y="190" class="value" fill="#E6EDF3">9</text>
+    <text x="42" y="190" class="value" fill="#E6EDF3">8</text>
   </g>
   <g class="fade" style="animation-delay:360ms">
     <rect x="164" y="144" width="124" height="58" rx="10" fill="#1A2027"/>
@@ -49,8 +49,8 @@
   </g>
   <text x="484" y="91" class="label">PHP</text>
   <rect x="580" y="82" width="230" height="10" rx="5" fill="#1A2027"/>
-  <rect x="580" y="82" width="170" height="10" rx="5" fill="#39FF9C" class="grow" style="animation-delay:300ms"/>
-  <text x="810" y="91" class="pct" text-anchor="end" dx="0">73.7%</text>
+  <rect x="580" y="82" width="171" height="10" rx="5" fill="#39FF9C" class="grow" style="animation-delay:300ms"/>
+  <text x="810" y="91" class="pct" text-anchor="end" dx="0">74.2%</text>
   <text x="484" y="113" class="label">JavaScript</text>
   <rect x="580" y="104" width="230" height="10" rx="5" fill="#1A2027"/>
   <rect x="580" y="104" width="22" height="10" rx="5" fill="#9AA4AF" class="grow" style="animation-delay:380ms"/>
@@ -66,9 +66,9 @@
   <text x="484" y="179" class="label">CSS</text>
   <rect x="580" y="170" width="230" height="10" rx="5" fill="#1A2027"/>
   <rect x="580" y="170" width="5" height="10" rx="5" fill="#9AA4AF" class="grow" style="animation-delay:620ms"/>
-  <text x="810" y="179" class="pct" text-anchor="end" dx="0">2.1%</text>
+  <text x="810" y="179" class="pct" text-anchor="end" dx="0">2.0%</text>
   <text x="484" y="201" class="label">Other</text>
   <rect x="580" y="192" width="230" height="10" rx="5" fill="#1A2027"/>
-  <rect x="580" y="192" width="11" height="10" rx="5" fill="#5B6470" class="grow" style="animation-delay:700ms"/>
-  <text x="810" y="201" class="pct" text-anchor="end" dx="0">4.7%</text>
+  <rect x="580" y="192" width="9" height="10" rx="5" fill="#5B6470" class="grow" style="animation-delay:700ms"/>
+  <text x="810" y="201" class="pct" text-anchor="end" dx="0">4.1%</text>
 </svg>
