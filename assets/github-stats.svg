@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="vanomarb on GitHub in 2026">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .title { font-size: 15px; font-weight: 700; fill: #E6EDF3; }
+    .sub { font-size: 12px; fill: #5B6470; }
+    .label { font-size: 12px; fill: #9AA4AF; }
+    .value { font-size: 19px; font-weight: 700; }
+    .pct { font-size: 11px; fill: #5B6470; }
+    .fade { opacity: 0; animation: fade 600ms ease-out forwards; }
+    .grow { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 900ms cubic-bezier(.2,.8,.2,1) forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) { .fade, .grow { animation: none; opacity: 1; transform: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="839" height="229" rx="14" fill="#0B0F14" stroke="#1A2027"/>
+  <text x="28" y="40" class="title">This year on GitHub</text>
+  <text x="28" y="58" class="sub">2026 · public activity · refreshed daily</text>
+  <text x="484" y="40" class="title">Languages</text>
+  <text x="484" y="58" class="sub">by code size across public repositories</text>
+  <g class="fade" style="animation-delay:0ms">
+    <rect x="28" y="74" width="124" height="58" rx="10" fill="#1A2027"/>
+    <text x="42" y="98" class="label">Contributions</text>
+    <text x="42" y="120" class="value" fill="#39FF9C">2,091</text>
+  </g>
+  <g class="fade" style="animation-delay:90ms">
+    <rect x="164" y="74" width="124" height="58" rx="10" fill="#1A2027"/>
+    <text x="178" y="98" class="label">Commits</text>
+    <text x="178" y="120" class="value" fill="#E6EDF3">101</text>
+  </g>
+  <g class="fade" style="animation-delay:180ms">
+    <rect x="300" y="74" width="124" height="58" rx="10" fill="#1A2027"/>
+    <text x="314" y="98" class="label">Pull requests</text>
+    <text x="314" y="120" class="value" fill="#E6EDF3">3</text>
+  </g>
+  <g class="fade" style="animation-delay:270ms">
+    <rect x="28" y="144" width="124" height="58" rx="10" fill="#1A2027"/>
+    <text x="42" y="168" class="label">Public repos</text>
+    <text x="42" y="190" class="value" fill="#E6EDF3">8</text>
+  </g>
+  <g class="fade" style="animation-delay:360ms">
+    <rect x="164" y="144" width="124" height="58" rx="10" fill="#1A2027"/>
+    <text x="178" y="168" class="label">Stars earned</text>
+    <text x="178" y="190" class="value" fill="#E6EDF3">22</text>
+  </g>
+  <g class="fade" style="animation-delay:450ms">
+    <rect x="300" y="144" width="124" height="58" rx="10" fill="#1A2027"/>
+    <text x="314" y="168" class="label">Followers</text>
+    <text x="314" y="190" class="value" fill="#E6EDF3">2</text>
+  </g>
+  <text x="484" y="91" class="label">PHP</text>
+  <rect x="580" y="82" width="230" height="10" rx="5" fill="#1A2027"/>
+  <rect x="580" y="82" width="170" height="10" rx="5" fill="#39FF9C" class="grow" style="animation-delay:300ms"/>
+  <text x="810" y="91" class="pct" text-anchor="end" dx="0">73.7%</text>
+  <text x="484" y="113" class="label">JavaScript</text>
+  <rect x="580" y="104" width="230" height="10" rx="5" fill="#1A2027"/>
+  <rect x="580" y="104" width="22" height="10" rx="5" fill="#9AA4AF" class="grow" style="animation-delay:380ms"/>
+  <text x="810" y="113" class="pct" text-anchor="end" dx="0">9.6%</text>
+  <text x="484" y="135" class="label">HTML</text>
+  <rect x="580" y="126" width="230" height="10" rx="5" fill="#1A2027"/>
+  <rect x="580" y="126" width="13" height="10" rx="5" fill="#9AA4AF" class="grow" style="animation-delay:460ms"/>
+  <text x="810" y="135" class="pct" text-anchor="end" dx="0">5.7%</text>
+  <text x="484" y="157" class="label">Twig</text>
+  <rect x="580" y="148" width="230" height="10" rx="5" fill="#1A2027"/>
+  <rect x="580" y="148" width="10" height="10" rx="5" fill="#9AA4AF" class="grow" style="animation-delay:540ms"/>
+  <text x="810" y="157" class="pct" text-anchor="end" dx="0">4.2%</text>
+  <text x="484" y="179" class="label">CSS</text>
+  <rect x="580" y="170" width="230" height="10" rx="5" fill="#1A2027"/>
+  <rect x="580" y="170" width="5" height="10" rx="5" fill="#9AA4AF" class="grow" style="animation-delay:620ms"/>
+  <text x="810" y="179" class="pct" text-anchor="end" dx="0">2.1%</text>
+  <text x="484" y="201" class="label">Other</text>
+  <rect x="580" y="192" width="230" height="10" rx="5" fill="#1A2027"/>
+  <rect x="580" y="192" width="11" height="10" rx="5" fill="#5B6470" class="grow" style="animation-delay:700ms"/>
+  <text x="810" y="201" class="pct" text-anchor="end" dx="0">4.7%</text>
+</svg>
