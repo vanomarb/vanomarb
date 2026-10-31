@@ -14,16 +14,16 @@ A developer who enjoys turning ideas into working projects. I build full-stack a
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vanomarb.github.io/busog/"><img src="assets/work/busog.jpg" width="100%" alt="busog" /></a>
-<h3><a href="https://github.com/vanomarb/busog">Busog</a></h3>
-<sub><code>Svelte</code> <code>Astro</code> <code>TypeScript</code> · updated Oct 29 · <a href="https://vanomarb.github.io/busog/">DEMO</a></sub>
-<p>A Filipino-first calorie tracker: point at your ulam, snap a plate, or search USDA food.</p>
-</td>
-<td width="50%" valign="top">
 <a href="https://vanomarb.github.io/lowband/"><img src="assets/work/lowband.jpg" width="100%" alt="lowband" /></a>
 <h3><a href="https://github.com/vanomarb/lowband">Lowband</a></h3>
-<sub><code>TypeScript</code> <code>CSS</code> <code>JavaScript</code> · updated Oct 28 · <a href="https://vanomarb.github.io/lowband/">DEMO</a></sub>
+<sub><code>TypeScript</code> <code>CSS</code> <code>JavaScript</code> · updated Oct 29 · <a href="https://vanomarb.github.io/lowband/">Try it ↗</a></sub>
 <p>One library for music that lives on different services.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://vanomarb.github.io/busog/"><img src="assets/work/busog.jpg" width="100%" alt="busog" /></a>
+<h3><a href="https://github.com/vanomarb/busog">Busog</a></h3>
+<sub><code>Svelte</code> <code>Astro</code> <code>TypeScript</code> · updated Oct 29 · <a href="https://vanomarb.github.io/busog/">Try it ↗</a></sub>
+<p>A calorie and macro tracker for meals from around the world: build a plate, snap a photo, or search USDA food.</p>
 </td>
 </tr>
 </table>
