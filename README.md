@@ -14,16 +14,30 @@ A developer who enjoys turning ideas into working projects. I build full-stack a
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vanomarb.github.io/lowband/"><img src="assets/work/lowband.jpg" width="100%" alt="lowband" /></a>
-<h3><a href="https://github.com/vanomarb/lowband">Lowband</a></h3>
-<sub><code>TypeScript</code> <code>CSS</code> <code>JavaScript</code> · updated Nov 3 · <a href="https://vanomarb.github.io/lowband/">Try it ↗</a></sub>
-<p>One library for music that lives on different services.</p>
+<a href="https://vanomarb.github.io/enamel/"><img src="assets/work/enamel.jpg" width="100%" alt="enamel" /></a>
+<h3><a href="https://github.com/vanomarb/enamel">Enamel</a></h3>
+<sub><code>TypeScript</code> <code>HTML</code> <code>CSS</code> · updated Nov 21 · <a href="https://vanomarb.github.io/enamel/">Try it ↗</a></sub>
+<p>A concept family dental clinic in Cebu City, with every starting price and online booking.</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://vanomarb.github.io/busog/"><img src="assets/work/busog.jpg" width="100%" alt="busog" /></a>
-<h3><a href="https://github.com/vanomarb/busog">Busog</a></h3>
-<sub><code>Svelte</code> <code>Astro</code> <code>TypeScript</code> · updated Nov 3 · <a href="https://vanomarb.github.io/busog/">Try it ↗</a></sub>
-<p>A calorie and macro tracker for meals from around the world: build a plate, snap a photo, or search USDA food.</p>
+<a href="https://vanomarb.github.io/marque/"><img src="assets/work/marque.jpg" width="100%" alt="marque" /></a>
+<h3><a href="https://github.com/vanomarb/marque">Marque</a></h3>
+<sub><code>TypeScript</code> <code>HTML</code> <code>CSS</code> · updated Nov 20 · <a href="https://vanomarb.github.io/marque/">Try it ↗</a></sub>
+<p>A brand and website studio for founders: fixed prices, 1 to 3 day builds, a project builder and Managed hosting.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vanomarb.github.io/bayline/"><img src="assets/work/bayline.jpg" width="100%" alt="bayline" /></a>
+<h3><a href="https://github.com/vanomarb/bayline">Bayline</a></h3>
+<sub><code>TypeScript</code> <code>HTML</code> <code>CSS</code> · updated Nov 20 · <a href="https://vanomarb.github.io/bayline/">Try it ↗</a></sub>
+<p>A concept car wash in Mandaue City: see the wait, join the line by plate or book a time.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://vanomarb.github.io/usual/"><img src="assets/work/usual.jpg" width="100%" alt="usual" /></a>
+<h3><a href="https://github.com/vanomarb/usual">Usual</a></h3>
+<sub><code>TypeScript</code> <code>HTML</code> <code>CSS</code> · updated Nov 20 · <a href="https://vanomarb.github.io/usual/">Try it ↗</a></sub>
+<p>A concept coffee bar in Cebu City: order ahead, save your usual and collect stamps.</p>
 </td>
 </tr>
 </table>
