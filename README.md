@@ -14,16 +14,16 @@ A developer who enjoys turning ideas into working projects. I build full-stack a
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vanomarb.github.io/enamel/"><img src="assets/work/enamel.jpg" width="100%" alt="enamel" /></a>
-<h3><a href="https://github.com/vanomarb/enamel">Enamel</a></h3>
-<sub><code>TypeScript</code> <code>HTML</code> <code>CSS</code> · updated Nov 21 · <a href="https://vanomarb.github.io/enamel/">Try it ↗</a></sub>
-<p>A concept family dental clinic in Cebu City, with every starting price and online booking.</p>
-</td>
-<td width="50%" valign="top">
 <a href="https://vanomarb.github.io/marque/"><img src="assets/work/marque.jpg" width="100%" alt="marque" /></a>
 <h3><a href="https://github.com/vanomarb/marque">Marque</a></h3>
-<sub><code>TypeScript</code> <code>HTML</code> <code>CSS</code> · updated Nov 20 · <a href="https://vanomarb.github.io/marque/">Try it ↗</a></sub>
+<sub><code>TypeScript</code> <code>HTML</code> <code>CSS</code> · updated Nov 23 · <a href="https://vanomarb.github.io/marque/">Try it ↗</a></sub>
 <p>A brand and website studio for founders: fixed prices, 1 to 3 day builds, a project builder and Managed hosting.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://vanomarb.github.io/enamel/"><img src="assets/work/enamel.jpg" width="100%" alt="enamel" /></a>
+<h3><a href="https://github.com/vanomarb/enamel">Enamel</a></h3>
+<sub><code>TypeScript</code> <code>HTML</code> <code>CSS</code> · updated Nov 23 · <a href="https://vanomarb.github.io/enamel/">Try it ↗</a></sub>
+<p>A concept family dental clinic in Cebu City, with every starting price and online booking.</p>
 </td>
 </tr>
 <tr>
